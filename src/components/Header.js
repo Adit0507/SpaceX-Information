@@ -7,7 +7,7 @@ const Header = () => {
 
     return (
         <>
-            <header className='absolute flex items-center justify-between px-5 w-full'>
+            <header className='absolute flex items-center justify-between px-5 py-1 w-full'>
                 <div>
                     <Link to="/">
                         <SiSpacex className="text-8xl text-white" />
