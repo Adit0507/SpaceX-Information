@@ -1,2 +1,4 @@
 import Error from "./Error";
-export {Error}
+import Home from "./Home";
+
+export {Error, Home}
