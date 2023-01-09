@@ -44,6 +44,14 @@ const Home = () => {
                                         </li>
                                     </ul>
                                 </article>
+                                <article>
+                                    <h2 className="font-bold border-b-2 border-white text-xl mb-3 pb-2 uppercase tracking-wider">Headquarters</h2>
+                                    <ul className="text-sm opacity-75">
+                                        <li className="mb-1">{company.headquarters.address}</li>
+                                        <li className="mb-1">{company.headquarters.city}</li>
+                                        <li className="mb-1">{company.headquarters.state}</li>
+                                    </ul>
+                                </article>
 
                                 <article>
                                     <h2 className="font-bold border-b-2 border-white text-xl mb-3 pb-2 uppercase tracking-wider">Useful Links</h2>
