@@ -57,9 +57,9 @@ p {
   line-height: 1.8;
 }
 
-/* .showcase {
+.showcase {
   background: url("./bg-image.jpg") no-repeat center/cover;
-} */
+}
 
 .showcase .overlay {
   background-color: rgba(0, 0, 0, 0.3);
