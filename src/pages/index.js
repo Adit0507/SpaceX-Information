@@ -4,5 +4,14 @@ import Capsules from "./Capsules"
 import Cores from "./Cores";
 import Crew from "./Crew";
 import SingleCrew from "./SingleCrew";
+import Dragons from "./Dragons";
 
-export { Error, Home, Capsules, Cores, Crew, SingleCrew }
+export { 
+    Error, 
+    Home, 
+    Capsules, 
+    Cores, 
+    Crew, 
+    SingleCrew, 
+    Dragons 
+}
