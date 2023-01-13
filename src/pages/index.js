@@ -6,6 +6,7 @@ import Crew from "./Crew";
 import SingleCrew from "./SingleCrew";
 import Dragons from "./Dragons";
 import SingleDragon from "./SingleDragon";
+import Landpad from "./Landpad";
 
 export { 
     Error, 
@@ -15,5 +16,6 @@ export {
     Crew, 
     SingleCrew, 
     Dragons,
-    SingleDragon 
+    SingleDragon,
+    Landpad 
 }
