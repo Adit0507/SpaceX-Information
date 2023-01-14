@@ -9,6 +9,7 @@ import SingleDragon from "./SingleDragon";
 import Landpad from "./Landpad";
 import SingleLandPads from "./SingleLandPads";
 import Launches from "./Launches";
+import SingleLaunch from "./SingleLaunch";
 
 export { 
     Error, 
@@ -21,5 +22,6 @@ export {
     SingleDragon,
     Landpad,
     SingleLandPads,
-    Launches 
+    Launches,
+    SingleLaunch 
 }
