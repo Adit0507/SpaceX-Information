@@ -29,7 +29,7 @@ const Crew = () => {
                   <img
                     src={image}
                     alt={name}
-                    loading="fast"
+                    loading="lazy"
                     className="h-96 w-full object-cover"
                   />
                   <h2 className="absolute bottom-5 left-5 font-bold text-white text-lg tracking-wide">
