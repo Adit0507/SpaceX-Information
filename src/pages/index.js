@@ -10,6 +10,7 @@ import Landpad from "./Landpad";
 import SingleLandPads from "./SingleLandPads";
 import Launches from "./Launches";
 import SingleLaunch from "./SingleLaunch";
+import LaunchPads from "./LaunchPads";
 import Payload from "./Payload";
 
 export { 
@@ -25,5 +26,6 @@ export {
     SingleLandPads,
     Launches,
     SingleLaunch,
-    Payload 
+    Payload,
+    LaunchPads 
 }
