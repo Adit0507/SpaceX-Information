@@ -14,6 +14,7 @@ import LaunchPads from "./LaunchPads";
 import Payload from "./Payload";
 import SingleLaunchPad from "./SingleLaunchPad";
 import Roadster from "./Roadster";
+import Rocket from "./Rocket";
 
 export { 
     Error, 
@@ -31,5 +32,6 @@ export {
     LaunchPads,
     SingleLaunchPad, 
     Payload,
-    Roadster
+    Roadster,
+    Rocket
 }
