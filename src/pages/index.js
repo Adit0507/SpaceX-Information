@@ -12,6 +12,7 @@ import Launches from "./Launches";
 import SingleLaunch from "./SingleLaunch";
 import LaunchPads from "./LaunchPads";
 import Payload from "./Payload";
+import SingleLaunchPad from "./SingleLaunchPad";
 
 export { 
     Error, 
@@ -26,6 +27,7 @@ export {
     SingleLandPads,
     Launches,
     SingleLaunch,
+    LaunchPads,
+    SingleLaunchPad, 
     Payload,
-    LaunchPads 
 }
