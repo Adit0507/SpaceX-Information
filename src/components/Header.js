@@ -67,11 +67,6 @@ const Header = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="/ships" className="text-white text-sm">
-                                Ships
-                            </Link>
-                        </li>
-                        <li>
                             <Link to="/starlink" className="text-white text-sm">
                                 Starlink
                             </Link>
