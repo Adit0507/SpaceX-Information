@@ -16,6 +16,7 @@ import SingleLaunchPad from "./SingleLaunchPad";
 import Roadster from "./Roadster";
 import Rocket from "./Rocket";
 import SingleRocket from "./SingleRocket";
+import Starlink from "./Starlink";
 
 export { 
     Error, 
@@ -35,5 +36,6 @@ export {
     Payload,
     Roadster,
     Rocket,
-    SingleRocket
+    SingleRocket,
+    Starlink
 }
